@@ -1,2 +1,2 @@
-# ReduxCooyzee
+# Redux
 redux
